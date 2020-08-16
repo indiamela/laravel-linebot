@@ -2,4 +2,4 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::post('/parrot','LineBotController@parrot');
+Route::post('/restaurants', 'LineBotController@restaurants');
